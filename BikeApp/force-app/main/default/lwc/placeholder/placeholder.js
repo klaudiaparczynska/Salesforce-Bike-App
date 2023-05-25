@@ -8,4 +8,5 @@ export default class Placeholder extends LightningElement {
 
     /** Url for bike logo. */
     @track logoUrl = BIKE_ASSETS_URL + '/logo.svg';
+    //to be continued
 }
